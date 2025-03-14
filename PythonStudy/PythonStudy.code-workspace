@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "PythonStudy",
+			"path": "."
+		},
+		{
+			"name": "c++ Prg",
+			"path": "../../c++ Prg"
+		},
+		{
+			"name": "react200",
+			"path": "../../../../react200"
+		},
+		{
+			"path": "../../OneDrive/바탕 화면/팀미션"
+		},
+		{
+			"path": "../../venvs/opencv/Scripts/Projects"
+		}
+	],
+	"settings": {}
+}
